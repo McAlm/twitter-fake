@@ -1,0 +1,5 @@
+/Users/swiese/Documents/camunda/eclipse-workspaces/consulting-workspace/twitterfake/src/main/java/org/camunda/demo/twitterfake/App.java
+/Users/swiese/Documents/camunda/eclipse-workspaces/consulting-workspace/twitterfake/src/main/java/org/camunda/demo/twitterfake/rest/TweetController.java
+/Users/swiese/Documents/camunda/eclipse-workspaces/consulting-workspace/twitterfake/src/main/java/org/camunda/demo/twitterfake/domain/Tweet.java
+/Users/swiese/Documents/camunda/eclipse-workspaces/consulting-workspace/twitterfake/src/main/java/org/camunda/demo/twitterfake/rest/DuplicateTweetException.java
+/Users/swiese/Documents/camunda/eclipse-workspaces/consulting-workspace/twitterfake/src/main/java/org/camunda/demo/twitterfake/domain/Invoice.java
