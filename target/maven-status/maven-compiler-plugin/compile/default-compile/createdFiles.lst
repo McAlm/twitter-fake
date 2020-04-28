@@ -1,5 +1,0 @@
-org/camunda/demo/twitterfake/App.class
-org/camunda/demo/twitterfake/rest/TweetController.class
-org/camunda/demo/twitterfake/domain/Invoice.class
-org/camunda/demo/twitterfake/domain/Tweet.class
-org/camunda/demo/twitterfake/rest/DuplicateTweetException.class
